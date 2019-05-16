@@ -3,8 +3,11 @@
   "version": "0.0.0",
   "description": "MODULE DESCRIPTION",
   "license": "MIT",
-  "repository": "vadzim/MODULE",
+  "repository": "https://github.com/vadzim/MODULE",
   "main": "dist/index.js",
+  "bugs": {
+    "url": "https://github.com/vadzim/MODULE/issues"
+  },
   "author": {
     "name": "Vadzim Zieńka",
     "email": "v@vadzim.info",
